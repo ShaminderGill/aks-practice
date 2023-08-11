@@ -6,7 +6,7 @@ variable "azure_resource_name" {
 
 variable "resource_group_name" {
     type = string
-    default = "Automate-demo-rg"
+    default = "Automate-demo-rg1"
 }
 
 variable "location" {
